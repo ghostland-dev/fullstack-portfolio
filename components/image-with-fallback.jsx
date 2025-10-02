@@ -22,4 +22,3 @@ export default function ImageWithFallback({ src, alt, fallbackSrc = "/placeholde
     </div>
   )
 }
-

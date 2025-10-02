@@ -189,4 +189,3 @@ function TechBadge({ children }) {
     </Badge>
   )
 }
-

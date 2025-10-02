@@ -25,4 +25,3 @@ export async function POST(request) {
     return NextResponse.json({ error: "Une erreur est survenue lors de l'authentification" }, { status: 500 })
   }
 }
-

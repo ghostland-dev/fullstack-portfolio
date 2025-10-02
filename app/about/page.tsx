@@ -226,4 +226,3 @@ function CertificationCard({ title, issuer, year }) {
     </Card>
   )
 }
-

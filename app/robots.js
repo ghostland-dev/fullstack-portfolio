@@ -8,4 +8,3 @@ export default function robots() {
     sitemap: "https://ismail-mouyahada.com/sitemap.xml",
   }
 }
-

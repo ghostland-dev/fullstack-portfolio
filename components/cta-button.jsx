@@ -27,4 +27,3 @@ export default function CTAButton({ type = "booking", size = "default", variant 
     </Link>
   )
 }
-

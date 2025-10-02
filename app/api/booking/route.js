@@ -72,4 +72,3 @@ export async function POST(request) {
     return NextResponse.json({ error: "Une erreur est survenue lors de la prise de rendez-vous" }, { status: 500 })
   }
 }
-

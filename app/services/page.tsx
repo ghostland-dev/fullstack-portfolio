@@ -327,4 +327,3 @@ function ServiceSection({ id, title, description, icon, technologies, details })
     </div>
   )
 }
-

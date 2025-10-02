@@ -38,4 +38,3 @@ export async function POST(request) {
     return NextResponse.json({ error: "Une erreur est survenue lors de l'envoi de votre message" }, { status: 500 })
   }
 }
-
